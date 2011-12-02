@@ -1,5 +1,5 @@
 === WP No Category Base - WPML compatible ===
-Contributors: Mines, iDope
+Contributors: mines.io
 Tags: categories, category base, category, permalinks, permastruct, links, seo, cms, wpml
 Requires at least: 3.1
 Tested up to: 3.1
